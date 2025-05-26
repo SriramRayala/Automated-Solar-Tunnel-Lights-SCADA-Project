@@ -11,7 +11,7 @@ This repository presents the design, implementation, and security hardening of a
 Traditional tunnel lighting systems waste energy by staying on continuously. This project introduces a smart, motion-triggered lighting system powered by solar panels and secured with layered cybersecurity measures.
 
 - Control Core: Raspberry Pi
-- Sensors: PIR Motion, Ambient Light
+- Sensors: PIR Motion
 - Lighting: 12V LED strip controlled via relay
 - Monitoring: Node-RED HMI dashboard
 - Power Source: Solar panel with battery storage
